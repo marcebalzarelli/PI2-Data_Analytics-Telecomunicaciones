@@ -26,7 +26,7 @@ El proyecto consistió en realizar un análisis exploratorio de los datos de la 
 
 Durante el análisis, se identificaron varios KPIs que resultaron relevantes para el proyecto. Estos KPIs proporcionan información crucial sobre el desempeño y la adopción de los servicios de telecomunicaciones. Los KPIs seleccionados son los siguientes:
 
-**-Ingresos por Trimestre:** Se analizaron los ingresos generados por los servicios de telecomunicaciones en cada trimestre. Este KPI permite evaluar la evolución financiera de la empresa y identificar tendencias a lo largo del tiempo.
+**-Ingresos por Trimestre:** Se analizaron los ingresos generados por los servicios de telecomunicaciones en cada trimestre. Este KPI permite evaluar la evolución financiera de la empresa e identificar tendencias a lo largo del tiempo.
 
 **-Tasa de Penetración de Internet por Provincia:** Se estudió la tasa de penetración de internet en cada provincia para comprender mejor la adopción de servicios de internet en diferentes regiones. Este KPI ayuda a identificar oportunidades de crecimiento y optimizar estrategias de mercado específicas para cada provincia.
 
